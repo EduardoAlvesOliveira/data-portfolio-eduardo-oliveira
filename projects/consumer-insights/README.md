@@ -1,4 +1,4 @@
-# Consumer Insights - Project Documentation
+
 # Consumer Insights - Segmentação de Consumidores 
 
 Este projeto de análise de Consumer Insights tem como objetivo segmentar consumidores com base em seu comportamento, utilizando técnicas de **Análise Descritiva**, **Clusterização (K-Means)** e **Storytelling com Dados**.
