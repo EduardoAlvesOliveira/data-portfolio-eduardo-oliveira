@@ -1,4 +1,4 @@
-# Red Battle - Análise de Mudança de Preferência de Marca 🚀
+# Análise de Mudança de Preferência de Marca 🚀
 
 Este projeto analisa a mudança na preferência dos consumidores entre diferentes marcas ao longo do tempo, identificando quais marcas ganharam ou perderam relevância.
 
